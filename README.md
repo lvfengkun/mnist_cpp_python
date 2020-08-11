@@ -1,0 +1,2 @@
+# mnist_cpp_python
+使用python训练mnist识别的pb模型并用cpp调用它
